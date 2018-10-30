@@ -49,4 +49,7 @@
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="MiniGuessingGame.exe.manifest" />
+  </ItemGroup>
 </Project>
